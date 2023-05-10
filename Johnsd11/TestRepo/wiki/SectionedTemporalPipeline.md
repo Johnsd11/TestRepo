@@ -1,1 +1,0 @@
-[SectionedTemporalPipeline](https://github.com/Johnsd11/TestRepo/wiki/SectionedTemporalPipeline)
